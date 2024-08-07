@@ -10,12 +10,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mah_rahat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mah_rahat" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ah-rahat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ah-rahat/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/mah.rahat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mah.rahat/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/indigoecliptic/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/indigoecliptic/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@quantacraft_ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@quantacraft_ai" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/ah-rahat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ah-rahat/" height="30" width="40" /></a>
-<a href="https://discord.gg/sneakyswanky#0260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sneakyswanky#0260" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ah-rahat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ah-rahat" height="30" width="40" /></a>
+<a href="https://fb.com/mah.rahat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mah.rahat" height="30" width="40" /></a>
+<a href="https://instagram.com/indigoecliptic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="indigoecliptic" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@quantacraft_ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@quantacraft_ai" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ah-rahat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ah-rahat" height="30" width="40" /></a>
+<a href="https://discord.gg/0260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="0260" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
