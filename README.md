@@ -1,3 +1,7 @@
+<img src="https://raw.githubusercontent.com/MAH-Rahat/MAH-Rahat/output/snake.svg" alt="Snake animation" />
+
+###
+
 <h1 align="center">Hi 👋, I'm MAH Rahat</h1>
 <h3 align="center">🌐 Frontend Developer in Training | Skilled in HTML, CSS, JavaScript | Exploring Backend Development | Python Practitioner in AI 🐍 | Curious About AI Engineering and Machine Learning 🤖🧠🦾 | CSE Undergrad 🧑🏽‍🎓</h3>
 
