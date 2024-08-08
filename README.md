@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm MAH Rahat</h1>
+
+<img source = "https://media.licdn.com/dms/image/D5616AQF9WVPaFzg4uQ/profile-displaybackgroundimage-shrink_350_1400/0/1695158826248?e=1728518400&v=beta&t=j-sjgH-PHQ9SeXBSOcSJNneSDdYbOkGe_b8IXaEAycc"/>
+
 <h3 align="center">🌐 Frontend Developer in Training | Skilled in HTML, CSS, JavaScript | Exploring Backend Development | Python Practitioner in AI 🐍 | Curious About AI Engineering and Machine Learning 🤖🧠🦾 | CSE Undergrad 🧑🏽‍🎓</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mah-rahat&label=Profile%20views&color=0e75b6&style=flat" alt="mah-rahat" /> </p>
