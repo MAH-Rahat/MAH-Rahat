@@ -2,7 +2,7 @@
 
 <img src="">
 
-<h3 align="center">📊 Aspiring Data Scientist | 📌 Learning Python, Pandas, NumPy & DataViz | Skilled in HTML, CSS, JavaScript | Curious About AI Engineering and Machine Learning 🤖🧠🦾 | 🎓 CSE Undergrad Real-World Applications of Data</h3>
+<h3 align="center">Aspiring AI Engineer focused on Image Processing 📸 | 📌 Currently mastering Data Science on a path to advanced Machine Learning 🤖🧠🦾| Skilled in HTML, CSS, JavaScript | 🎓 CSE Undergrad</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mah-rahat&label=Profile%20views&color=0e75b6&style=flat" alt="mah-rahat" /> </p>
 
