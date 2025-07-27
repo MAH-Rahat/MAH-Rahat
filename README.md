@@ -61,7 +61,7 @@ developer.say_hi()
 ```
 
 </td>
-<td width="40%">
+
 
 ### 🌟 **Quick Stats**
 - 🎓 **Computer Science Engineer** (3rd Year)
@@ -82,7 +82,7 @@ developer.say_hi()
 - 💻 Now **Full-Stack AI Developer**
 - 🎵 Code better with **Lo-fi Hip Hop**
 
-</td>
+
 </tr>
 </table>
 
