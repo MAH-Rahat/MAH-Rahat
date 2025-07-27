@@ -153,8 +153,8 @@ timeline
 <tr>
 <td width="20%"><strong>2020</strong></td>
 <td width="30%"><strong>Nerv System BD</strong></td>
-<td width="25%"><strong>Project Debug Specialist</strong></td>
-<td width="25%">🔧 Technical problem-solving<br>🎯 System optimization</td>
+<td width="25%"><strong>Project Debug </strong></td>
+<td width="25%">🔧 Graphic Designer<br>🎯 Visual design</td>
 </tr>
 <tr>
 <td><strong>2021</strong></td>
@@ -185,7 +185,7 @@ timeline
 <tr>
 <td><strong>2024</strong></td>
 <td><strong>Digital Marketing</strong></td>
-<td><strong>Marketing Specialist</strong></td>
+<td><strong>Marketing Specialist, Graphic Designer</strong></td>
 <td>🌐 <strong>Stylescape & Bilipotro</strong><br>📈 Campaign management<br>🎯 Brand enhancement<br>💡 Growth hacking</td>
 </tr>
 </table>
@@ -200,7 +200,7 @@ timeline
 <td width="20%"><strong>2025</strong></td>
 <td width="30%"><strong>Frontend Development</strong></td>
 <td width="25%"><strong>Full-Stack Developer</strong></td>
-<td width="25%">⚛️ React.js mastery<br>🎨 UI/UX excellence<br>🤖 AI integration<br>🚀 Modern web apps</td>
+<td width="25%">⚛️ React.js mastery<br>🎨 <br>🤖 AI integration<br>🚀 Modern web apps</td>
 </tr>
 </table>
 
