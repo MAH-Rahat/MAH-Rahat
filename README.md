@@ -1,448 +1,507 @@
-<div align="center">
-
 # 🚀 MAH Rahat | Aspiring AI Engineer focused on Computer vision 🖥️
 
-
-
-![Portfolio Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4,5&height=300&section=header&text=MAH%20RAHAT&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%26%20Full-Stack%20Developer&descAlignY=58&descSize=22)
-
-</div>
-
-<div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" style="border: none; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 20px; padding: 40px; margin: 20px 0;">
-    <tr>
-      <td align="center" style="color: white;">
-        <h1 style="margin: 0; font-size: 3.5em; background: linear-gradient(45deg, #00D8FF, #FF6B6B); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Welcome to My Digital Universe</h1>
-        <p style="font-size: 1.3em; margin: 20px 0; opacity: 0.9;">Where Innovation Meets Intelligence</p>
-        
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=900&height=80&lines=🤖+AI+Engineer+%7C+Computer+Vision+Specialist;🌐+Full-Stack+Developer+%7C+Creative+Designer;📊+Data+Scientist+%7C+Business+Strategist;🚀+Transforming+Ideas+into+Reality)](https://git.io/typing-svg)
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=mah-rahat&label=Visitors&color=brightgreen&style=for-the-badge)
-![GitHub Followers](https://img.shields.io/github/followers/mah-rahat?label=Followers&style=for-the-badge&color=blue)
-![GitHub Stars](https://img.shields.io/github/stars/mah-rahat?label=Stars&style=for-the-badge&color=gold)
-        
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🎯 ABOUT ME
-
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="50%" valign="top">
-        
-### 👨‍💻 PROFESSIONAL PROFILE
-
-```typescript
-interface AIEngineer {
-  name: string;
-  role: string;
-  location: string;
-  education: {
-    current: string;
-    college: string;
-    school: string;
-  };
-  expertise: string[];
-  mission: string;
-}
-
-const MAH_Rahat: AIEngineer = {
-  name: "MAH Rahat",
-  role: "AI Engineer & Full-Stack Developer",
-  location: "Dhaka, Bangladesh 🇧🇩",
-  education: {
-    current: "BRAC University - CSE (3rd Year)",
-    college: "Dhaka College",
-    school: "Ideal School and College"
-  },
-  expertise: [
-    "🤖 Artificial Intelligence",
-    "👁️ Computer Vision", 
-    "🌐 Full-Stack Development",
-    "🎨 UI/UX Design",
-    "📊 Data Science"
-  ],
-  mission: "Building AI solutions that transform lives"
-};
-```
-
-      </td>
-      <td width="50%" valign="top">
-        
-### 📊 QUICK STATS
-
-<div align="center">
-
-![Years of Experience](https://img.shields.io/badge/Experience-5%2B%20Years-success?style=for-the-badge&logo=briefcase&logoColor=white)
-
-![Current Focus](https://img.shields.io/badge/Focus-AI%20Engineering-blue?style=for-the-badge&logo=robot&logoColor=white)
-
-![Education](https://img.shields.io/badge/Education-CSE%20Student-purple?style=for-the-badge&logo=graduation-cap&logoColor=white)
-
-![Location](https://img.shields.io/badge/Location-Dhaka%2C%20BD-green?style=for-the-badge&logo=map-pin&logoColor=white)
-
-</div>
-
-### 🎯 CURRENT OBJECTIVES
-- 🔬 Mastering Advanced AI & Machine Learning
-- 🚀 Building Production-Ready Applications
-- 📚 Continuous Learning & Innovation
-- 🌍 Creating Technology for Global Impact
-
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🎓 EDUCATION & BACKGROUND
-
 <div align="center">
   
-### 📚 ACADEMIC JOURNEY
+  ![Header Image](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=MAH%20RAHAT&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=20)
 
-</div>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=🤖+AI+Engineer+%26+Machine+Learning+Specialist;👁️+Computer+Vision+%26+Image+Processing+Expert;🌐+Full-Stack+Developer+%26+UI%2FUX+Designer;📊+Data+Scientist+%26+Business+Strategist;🚀+Transforming+Ideas+into+Intelligent+Solutions)](https://git.io/typing-svg)
 
-<table width="100%">
-<tr>
-<td width="33%" align="center">
-<img src="https://img.shields.io/badge/🏫%20Foundation-Ideal%20School%20%26%20College-blue?style=for-the-badge&labelColor=darkblue" />
-<br><br>
-<strong>🌟 Strong Foundation</strong>
-<br>
-<em>Mathematics & Science Excellence</em>
-<br>
-<em>Critical Thinking Development</em>
-</td>
-<td width="34%" align="center">
-<img src="https://img.shields.io/badge/🎓%20Higher%20Secondary-Dhaka%20College-green?style=for-the-badge&labelColor=darkgreen" />
-<br><br>
-<strong>📈 Academic Growth</strong>
-<br>
-<em>Science Specialization</em>
-<br>
-<em>Engineering Preparation</em>
-</td>
-<td width="33%" align="center">
-<img src="https://img.shields.io/badge/🏛️%20University-BRAC%20University%20CSE-red?style=for-the-badge&labelColor=darkred" />
-<br><br>
-<strong>🚀 Innovation Phase</strong>
-<br>
-<em>AI & ML Specialization</em>
-<br>
-<em>Currently 3rd Year</em>
-</td>
-</tr>
-</table>
-
----
-
-## 💼 PROFESSIONAL EXPERIENCE
-
-<div align="center">
-  
-### 🚀 CAREER EVOLUTION TIMELINE
-
-</div>
-
-<details>
-<summary><h3>🎨 CREATIVE & DESIGN ERA (2020-2023)</h3></summary>
-
-<table width="100%">
-<tr>
-<th width="15%">YEAR</th>
-<th width="25%">COMPANY</th>
-<th width="25%">POSITION</th>
-<th width="35%">ACHIEVEMENTS</th>
-</tr>
-<tr>
-<td align="center"><strong>2020</strong></td>
-<td><strong>Nerv System BD</strong></td>
-<td>Project Debug Specialist</td>
-<td>🔧 System Optimization<br>⚡ Performance Enhancement</td>
-</tr>
-<tr>
-<td align="center"><strong>2021</strong></td>
-<td><strong>Chaaway</strong></td>
-<td>Graphic Designer</td>
-<td>🎨 Visual Branding<br>🖼️ Creative Solutions</td>
-</tr>
-<tr>
-<td align="center"><strong>2022-23</strong></td>
-<td><strong>Multiple Companies</strong><br><em>Diggger, Chillox, Skillshikhun, North South Startup Next</em></td>
-<td>Senior Graphic Designer</td>
-<td>🌟 Design Leadership<br>📈 Brand Innovation<br>🚀 Startup Growth</td>
-</tr>
-</table>
-
-</details>
-
-<details>
-<summary><h3>💼 BUSINESS & STRATEGY ERA (2023-2024)</h3></summary>
-
-<table width="100%">
-<tr>
-<th width="15%">YEAR</th>
-<th width="25%">COMPANY</th>
-<th width="25%">POSITION</th>
-<th width="35%">ACHIEVEMENTS</th>
-</tr>
-<tr>
-<td align="center"><strong>2023</strong></td>
-<td><strong>Aarong</strong></td>
-<td>Sales Executive</td>
-<td>💰 Revenue Growth<br>🤝 Client Relations<br>📊 Strategy Development</td>
-</tr>
-<tr>
-<td align="center"><strong>2024</strong></td>
-<td><strong>Stylescape & Bilipotro</strong></td>
-<td>Digital Marketing Specialist</td>
-<td>📈 Campaign Success<br>🎯 Brand Enhancement<br>💡 Growth Hacking</td>
-</tr>
-</table>
-
-</details>
-
-<details>
-<summary><h3>💻 TECHNOLOGY & DEVELOPMENT ERA (2025-Present)</h3></summary>
-
-<table width="100%">
-<tr>
-<th width="15%">YEAR</th>
-<th width="25%">FOCUS AREA</th>
-<th width="25%">SPECIALIZATION</th>
-<th width="35%">CURRENT PROJECTS</th>
-</tr>
-<tr>
-<td align="center"><strong>2025</strong></td>
-<td><strong>Full-Stack Development</strong></td>
-<td>Frontend & AI Integration</td>
-<td>⚛️ React Applications<br>🤖 AI-Powered Solutions<br>🚀 Modern Web Apps</td>
-</tr>
-</table>
-
-</details>
-
----
-
-## 🛠️ TECHNOLOGY STACK
-
-<div align="center">
-  
-### ⚡ FULL-STACK AI ENGINEER TOOLKIT
-
-</div>
-
-<table width="100%">
-<tr>
-<td width="25%" align="center">
-
-#### 🤖 AI & MACHINE LEARNING
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=flat-square&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
-
-</td>
-<td width="25%" align="center">
-
-#### 🌐 FRONTEND DEVELOPMENT
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)
-
-</td>
-<td width="25%" align="center">
-
-#### ⚙️ BACKEND & DATABASE
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-
-</td>
-<td width="25%" align="center">
-
-#### 🎨 DESIGN & CREATIVE
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-
-</td>
-</tr>
-</table>
-
----
-
-## 🚀 FEATURED PROJECTS
-
-<div align="center">
-  
-### 💼 PROJECT PORTFOLIO
-
-</div>
-
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-
-### 🤖 AI & MACHINE LEARNING
-<img src="https://img.shields.io/badge/Status-In%20Development-blue?style=for-the-badge&logo=robot&logoColor=white" />
-
-**🧠 Neural Network Implementations**
-- Deep Learning from Scratch
-- Computer Vision Applications
-- Natural Language Processing
-
-**👁️ Computer Vision Systems**
-- Real-time Object Detection
-- Image Processing Pipelines
-- Face Recognition Systems
-
-**📊 Data Science Projects**
-- Predictive Analytics
-- Statistical Modeling
-- Business Intelligence
-
-<img src="https://img.shields.io/badge/Tech%20Stack-Python%20%7C%20TensorFlow%20%7C%20OpenCV-success?style=flat-square" />
-
-</td>
-<td width="50%" align="center">
-
-### 🌐 FULL-STACK APPLICATIONS
-<img src="https://img.shields.io/badge/Status-Active%20Development-green?style=for-the-badge&logo=react&logoColor=white" />
-
-**⚛️ Modern Web Applications**
-- React.js Single Page Apps
-- Responsive UI/UX Design
-- Progressive Web Apps
-
-**🔗 API Development & Integration**
-- RESTful API Design
-- Database Management
-- Real-time Communication
-
-**🎨 Creative Web Solutions**
-- Interactive Dashboards
-- Data Visualization
-- User Experience Design
-
-<img src="https://img.shields.io/badge/Tech%20Stack-React%20%7C%20Node.js%20%7C%20MongoDB-info?style=flat-square" />
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-  
-[![Explore Portfolio](https://img.shields.io/badge/🌟%20EXPLORE%20MY%20COMPLETE%20PORTFOLIO-Click%20Here-red?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mah-rahat?tab=repositories)
+  <img src="https://komarev.com/ghpvc/?username=mah-rahat&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/mah-rahat?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/mah-rahat?label=Total%20Stars&style=for-the-badge&color=gold" alt="Stars" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Engineering-red?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Status-Building%20Tomorrow-green?style=for-the-badge" alt="Status" />
 
 </div>
 
 ---
 
-## 📊 GITHUB ANALYTICS
-
-<div align="center">
-
-### 📈 PERFORMANCE DASHBOARD
+## 🎯 About Me
 
 <table>
 <tr>
+<td width="60%">
+
+```python
+class MAH_Rahat:
+    def __init__(self):
+        self.name = "MAH Rahat"
+        self.role = " Currently mastering Data Science on a path to advanced Machine Learning 🤖"
+        self.location = "Dhaka, Bangladesh 🇧🇩"
+        self.education = {
+            "current": "BRAC University - CSE (3rd Year)",
+            "college": "Dhaka College",
+            "school": "Ideal School and College"
+        }
+        self.specializations = [
+            "🤖 Artificial Intelligence & Machine Learning",
+            "👁️ Computer Vision & Image Processing", 
+            "🌐 Full-Stack Web Development",
+            "🎨 UI/UX Design & Digital Marketing",
+            "📊 Data Science & Business Analytics"
+        ]
+        self.current_mission = "Building AI solutions that matter"
+        self.vision = "Creating technology that transforms lives"
+        
+    def get_superpowers(self):
+        return [
+            "🧠 Deep Learning Architecture Design",
+            "🔍 Real-time Computer Vision Systems",
+            "⚡ Full-Stack Development (React to AI APIs)",
+            "🎨 Creative Problem Solving",
+            "📈 Business Strategy & Growth Hacking"
+        ]
+        
+    def say_hi(self):
+        print("Welcome to my digital universe! 🌟")
+        print("Let's build the future with AI together! 🚀")
+
+developer = MAH_Rahat()
+developer.say_hi()
+```
+
+</td>
+
+
+### 🌟 **Quick Stats**
+- 🎓 **Computer Science Engineer** (3rd Year)
+- 🏢 **5+ Years** Professional Experience
+- 🎨 **Multi-disciplinary** Background
+- 🚀 **AI Enthusiast** & **Tech Innovator**
+- 🌍 **Global Mindset** with **Local Impact**
+
+### 🎯 **Currently Exploring**
+- 🔬 Advanced Neural Networks
+- 👁️ Computer Vision Applications
+- 🤖 MLOps & Production AI
+- 🌐 AI-Powered Web Applications
+
+### ⚡ **Fun Facts**
+- 🎨 Started as a **Graphic Designer**
+- 💼 Evolved into **Business Strategist**
+- 💻 Now **Full-Stack AI Developer**
+- 🎵 Code better with **Lo-fi Hip Hop**
+
+
+</tr>
+</table>
+
+---
+
+## 🎓 Academic Journey
+
+<div align="center">
+
+### 📚 **Educational Excellence**
+
+</div>
+
+```mermaid
+timeline
+    title Academic & Professional Evolution
+    
+    section Foundation
+        2017 : Ideal School and College
+                  : Built strong foundation in Science & Mathematics
+                  : Developed analytical thinking and problem-solving skills
+    
+    section Higher Secondary
+        2019 : Dhaka College
+                  : Specialized in Science
+                  : Achieved academic excellence
+                  : Prepared for engineering entrance
+    
+    section University
+        2022-Present : BRAC University - Computer Science Engineering
+                     : Currently in 3rd Year
+                     : Specializing in AI & Machine Learning
+                     : Building next-generation AI solutions
+```
+
+<table align="center">
+<tr>
 <td align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mah-rahat&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" height="200" />
+<img src="https://img.shields.io/badge/🏫_Ideal_School_&_College-Foundation-blue?style=for-the-badge&labelColor=darkblue" />
+<br><sub><b>Strong Mathematical & Scientific Foundation</b></sub>
 </td>
 <td align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mah-rahat&theme=radical&hide_border=true&background=0d1117&stroke=58a6ff&ring=1f6feb&fire=f85149&currStreakLabel=58a6ff" height="200" />
+<img src="https://img.shields.io/badge/🎓_Dhaka_College-Higher_Secondary-green?style=for-the-badge&labelColor=darkgreen" />
+<br><sub><b>Academic Excellence in Science</b></sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🏛️_BRAC_University-CSE_(3rd_Year)-red?style=for-the-badge&labelColor=darkred" />
+<br><sub><b>Specializing in AI & Machine Learning</b></sub>
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 Professional Experience
+
+<div align="center">
+
+### 🚀 **Career Evolution Timeline**
+
+</div>
+
+<details>
+<summary><b>🎨 Design & Creative Era (2020-2023)</b></summary>
+
+<table>
+<tr>
+<td width="20%"><strong>2020</strong></td>
+<td width="30%"><strong>Nerv System BD</strong></td>
+<td width="25%"><strong>Project Debug Specialist</strong></td>
+<td width="25%">🔧 Technical problem-solving<br>🎯 System optimization</td>
+</tr>
+<tr>
+<td><strong>2021</strong></td>
+<td><strong>Chaaway</strong></td>
+<td><strong>Graphic Designer</strong></td>
+<td>🎨 Visual design<br>🖼️ Brand development</td>
+</tr>
+<tr>
+<td><strong>2022-2023</strong></td>
+<td><strong>Multiple Companies</strong></td>
+<td><strong>Senior Graphic Designer</strong></td>
+<td>🌟 <strong>Diggger, Chillox, Skillshikhun</strong><br>🚀 <strong>North South Startup Next</strong><br>📈 Design leadership & innovation</td>
+</tr>
+</table>
+
+</details>
+
+<details>
+<summary><b>💼 Business & Sales Excellence (2023-2024)</b></summary>
+
+<table>
+<tr>
+<td width="20%"><strong>2023</strong></td>
+<td width="30%"><strong>Aarong</strong></td>
+<td width="25%"><strong>Sales Executive</strong></td>
+<td width="25%">💰 Revenue generation<br>🤝 Customer relations<br>📊 Sales strategy</td>
+</tr>
+<tr>
+<td><strong>2024</strong></td>
+<td><strong>Digital Marketing</strong></td>
+<td><strong>Marketing Specialist</strong></td>
+<td>🌐 <strong>Stylescape & Bilipotro</strong><br>📈 Campaign management<br>🎯 Brand enhancement<br>💡 Growth hacking</td>
+</tr>
+</table>
+
+</details>
+
+<details>
+<summary><b>💻 Tech Development Era (2025-Present)</b></summary>
+
+<table>
+<tr>
+<td width="20%"><strong>2025</strong></td>
+<td width="30%"><strong>Frontend Development</strong></td>
+<td width="25%"><strong>Full-Stack Developer</strong></td>
+<td width="25%">⚛️ React.js mastery<br>🎨 UI/UX excellence<br>🤖 AI integration<br>🚀 Modern web apps</td>
+</tr>
+</table>
+
+</details>
+
+<div align="center">
+
+### 🏆 **Professional Highlights**
+
+![Experience](https://img.shields.io/badge/Experience-5%2B%20Years-success?style=for-the-badge&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-8%2B%20Organizations-blue?style=for-the-badge&logo=building)
+![Domains](https://img.shields.io/badge/Domains-Design%20%7C%20Sales%20%7C%20Marketing%20%7C%20Tech-purple?style=for-the-badge&logo=chart-line)
+
+</div>
+
+---
+
+## 🛠️ Tech Arsenal & Skills
+
+<div align="center">
+
+### 🎯 **Full-Stack AI Engineer Toolkit**
+
+</div>
+
+<details>
+<summary><b>🤖 AI & Machine Learning Mastery</b></summary>
+<br>
+
+<div align="center">
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-%23150458.svg?style=for-the-badge&logo=seaborn&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+
+</div>
+
+**🎯 Specializations:**
+- 🧠 **Deep Learning:** Neural Networks, CNNs, RNNs, Transformers
+- 👁️ **Computer Vision:** Image Processing, Object Detection, Face Recognition
+- 📊 **Data Science:** Statistical Analysis, Predictive Modeling, Data Mining
+- 🤖 **MLOps:** Model Deployment, CI/CD Pipelines, Production Monitoring
+
+</details>
+
+<details>
+<summary><b>🌐 Full-Stack Development Excellence</b></summary>
+<br>
+
+<div align="center">
+
+**Frontend Technologies**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Backend & APIs**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
+</div>
+
+</details>
+
+<details>
+<summary><b>🗄️ Database & Cloud Technologies</b></summary>
+<br>
+
+<div align="center">
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+</details>
+
+<details>
+<summary><b>🎨 Design & Creative Tools</b></summary>
+<br>
+
+<div align="center">
+
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+</div>
+
+**🎨 Design Expertise:**
+- 🖼️ **Visual Design:** Brand Identity, Logo Design, Marketing Materials
+- 🌐 **UI/UX Design:** User Interface, User Experience, Prototyping
+- 📱 **Digital Marketing:** Social Media Graphics, Campaign Design
+- 🎥 **Multimedia:** Video Editing, Animation, Interactive Design
+
+</details>
+
+---
+
+## 🏆 Featured Projects & Portfolio
+
+<div align="center">
+
+### 🌟 **Innovation Showcase**
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 **AI & Machine Learning**
+<div align="center">
+
+![AI Projects](https://img.shields.io/badge/AI%20Projects-In%20Development-blue?style=for-the-badge&logo=robot)
+
+</div>
+
+- 🧠 **Neural Network Implementations**
+- 👁️ **Computer Vision Applications** 
+- 📊 **Data Science Pipelines**
+- 🔍 **Predictive Analytics Tools**
+
+🚧 *Revolutionary AI solutions in active development*
+
+**Technologies:** Python, TensorFlow, OpenCV, Scikit-learn
+
+</td>
+<td width="50%">
+
+### 🌐 **Full-Stack Applications**
+<div align="center">
+
+![Web Projects](https://img.shields.io/badge/Web%20Apps-Live%20Projects-green?style=for-the-badge&logo=react)
+
+</div>
+
+- ⚛️ **React.js Web Applications**
+- 🎨 **Interactive UI/UX Designs**
+- 🔗 **API Development & Integration**
+- 📱 **Responsive Design Systems**
+
+🚧 *Modern web applications with AI integration*
+
+**Technologies:** React, Node.js, Express, MongoDB
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎨 **Design & Creative Works**
+<div align="center">
+
+![Design Portfolio](https://img.shields.io/badge/Design%20Portfolio-5%2B%20Years-purple?style=for-the-badge&logo=adobe)
+
+</div>
+
+- 🏢 **Brand Identity Systems**
+- 📈 **Marketing Campaign Designs**
+- 🖼️ **Digital Art & Illustrations**
+- 📱 **UI/UX Design Projects**
+
+✨ *Award-winning designs across multiple industries*
+
+**Tools:** Photoshop, Illustrator, Figma, Canva
+
+</td>
+<td width="50%">
+
+### 📊 **Business & Analytics**
+<div align="center">
+
+![Business Projects](https://img.shields.io/badge/Business%20Solutions-Growth%20Driven-orange?style=for-the-badge&logo=chart-line)
+
+</div>
+
+- 📈 **Sales Growth Strategies**
+- 🎯 **Digital Marketing Campaigns**
+- 💡 **Business Process Optimization**
+- 📊 **Data-Driven Decision Making**
+
+🚀 *Proven track record of business success*
+
+**Focus:** Strategy, Analytics, Growth Hacking
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![Explore Portfolio](https://img.shields.io/badge/🚀%20Explore%20My%20Universe-Portfolio%20%26%20Projects-red?style=for-the-badge&logo=github)](https://github.com/mah-rahat?tab=repositories)
+
+</div>
+
+---
+
+## 📈 GitHub Analytics & Achievements
+
+<div align="center">
+
+### 🎯 **Performance Dashboard**
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mah-rahat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mah-rahat&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mah-rahat&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="200" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mah-rahat&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
+
 </td>
 </tr>
 </table>
 
-### 🏆 ACHIEVEMENTS & TROPHIES
+### 🏆 **Achievement Gallery**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mah-rahat&theme=radical&no-frame=true&row=1&column=7&margin-h=15&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mah-rahat&theme=onedark&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-### 📊 CONTRIBUTION GRAPH
+### 📊 **Contribution Visualization**
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mah-rahat&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Rahat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mah-rahat&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### ⚡ **Coding Activity**
+
+[![Rahat's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mah-rahat&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
 ---
 
-## 🎯 VISION & MISSION
+## 🎯 Vision & Mission
 
 <div align="center">
-  
-### 🌟 BUILDING THE FUTURE WITH AI
+
+### 🚀 **Transforming the Future with AI**
 
 </div>
 
-<table width="100%">
+<table>
 <tr>
-<td width="50%" align="center">
+<td width="50%">
 
-### 🎯 CURRENT FOCUS
-<img src="https://img.shields.io/badge/Status-Actively%20Building-brightgreen?style=for-the-badge&logo=construction&logoColor=white" />
+### 🎯 **Current Focus**
+- 🔬 **AI Research:** Deep Learning & Computer Vision
+- 🛠️ **Product Development:** AI-powered applications
+- 📚 **Continuous Learning:** Cutting-edge technologies
+- 🌍 **Global Impact:** Solutions that matter
 
-**🔬 Research & Development**
-- Advanced Machine Learning Algorithms
-- Computer Vision Applications
-- Neural Network Optimization
-
-**🛠️ Product Development**
-- AI-Powered Web Applications
-- Real-time Processing Systems
-- Scalable ML Solutions
-
-**📚 Continuous Learning**
-- Latest AI Technologies
-- Industry Best Practices
-- Innovation Methodologies
+### 💡 **Innovation Areas**
+- 🤖 **Intelligent Automation**
+- 👁️ **Real-time Computer Vision**
+- 🧠 **Neural Network Optimization**
+- 🌐 **AI-Web Integration**
 
 </td>
-<td width="50%" align="center">
+<td width="50%">
 
-### 🚀 FUTURE GOALS
-<img src="https://img.shields.io/badge/Vision-Global%20Impact-blue?style=for-the-badge&logo=target&logoColor=white" />
+### 🌟 **Professional Goals**
+- 🎓 **Academic Excellence:** Top-tier CSE graduate
+- 🏢 **Industry Leadership:** AI engineering expertise
+- 🚀 **Entrepreneurship:** Tech startup founding
+- 🌍 **Social Impact:** Technology for good
 
-**🎓 Academic Excellence**
-- Graduate with Distinction
-- Research Publications
-- Technical Leadership
-
-**🏢 Professional Growth**
-- AI Engineering Expertise
-- Team Leadership
-- Innovation Management
-
-**🌍 Global Impact**
-- Open Source Contributions
-- Knowledge Sharing
-- Technology for Good
+### 🔮 **Future Vision**
+- 🤖 **AI Democratization:** Making AI accessible
+- 🌐 **Global Solutions:** Solving world problems
+- 🎓 **Education:** Teaching next generation
+- 💡 **Innovation:** Breakthrough discoveries
 
 </td>
 </tr>
@@ -450,37 +509,87 @@ const MAH_Rahat: AIEngineer = {
 
 ---
 
-## 🌐 CONNECT & COLLABORATE
+## 🌐 Connect & Collaborate
 
 <div align="center">
-  
-### 💬 LET'S BUILD SOMETHING AMAZING TOGETHER!
+
+### 💬 **Let's Build Something Amazing Together!**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ah-rahat)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mah_rahat)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/@quantacraft_ai)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/indigoecliptic)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/mah.rahat)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/0260)
+
+### 📧 **Professional Contact**
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://mah-rahat.github.io)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/your-resume)
+
+### 🏅 **Coding & Competitive Programming**
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/ah-rahat)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/ah-rahat)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/ah-rahat)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ah-rahat)
+
+</div>
+
+---
+
+## 🎵 Current Vibes & Inspiration
+
+<div align="center">
+
+### 🎧 **Coding Soundtrack**
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/spotify-playing)](https://spotify-github-profile.vercel.app/api/spotify-playing)
+
+### 💭 **Latest Thoughts & Insights**
+
+</div>
+
+<!-- BLOG-POST-LIST:START -->
+- 🧠 [The Mathematics Behind Neural Networks: A Deep Dive](https://your-blog.com/neural-networks-math)
+- 👁️ [Real-time Computer Vision: From Theory to Production](https://your-blog.com/cv-production)
+- 🚀 [My Journey: From Graphic Designer to AI Engineer](https://your-blog.com/career-transformation)
+- 📊 [Building Scalable ML Pipelines: Lessons Learned](https://your-blog.com/ml-pipelines)
+- 🌐 [The Future of AI in Web Development](https://your-blog.com/ai-web-development)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🏆 Achievements & Recognition
+
+<div align="center">
 
 <table>
 <tr>
 <td align="center">
-
-#### 🔗 PROFESSIONAL NETWORKS
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ah-rahat)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://mah-rahat.github.io)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-
+<img src="https://img.shields.io/badge/🎓_Academic-Honor_Roll-gold?style=for-the-badge&labelColor=darkgoldenrod" />
+<br><sub><b>Consistent Academic Excellence</b></sub>
 </td>
 <td align="center">
-
-#### 📱 SOCIAL MEDIA
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mah_rahat)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/@quantacraft_ai)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/indigoecliptic)
-
+<img src="https://img.shields.io/badge/💼_Professional-5%2B_Years-blue?style=for-the-badge&labelColor=darkblue" />
+<br><sub><b>Multi-Industry Experience</b></sub>
 </td>
 <td align="center">
-
-#### 💻 CODING PLATFORMS
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/ah-rahat)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/ah-rahat)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/0260)
-
+<img src="https://img.shields.io/badge/🎨_Creative-Award_Winner-purple?style=for-the-badge&labelColor=darkviolet" />
+<br><sub><b>Design Excellence Recognition</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/📈_Business-Growth_Driver-green?style=for-the-badge&labelColor=darkgreen" />
+<br><sub><b>Proven Sales & Marketing Success</b></sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🤖_AI-Innovation_Leader-red?style=for-the-badge&labelColor=darkred" />
+<br><sub><b>Cutting-edge AI Development</b></sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🌍_Impact-Community_Builder-orange?style=for-the-badge&labelColor=darkorange" />
+<br><sub><b>Technology for Social Good</b></sub>
 </td>
 </tr>
 </table>
@@ -491,28 +600,24 @@ const MAH_Rahat: AIEngineer = {
 
 <div align="center">
 
-### 🌟 THANK YOU FOR VISITING MY DIGITAL PORTFOLIO!
+### 🌟 **"From Pixels to Intelligence, From Ideas to Impact"**
 
-<table style="border: none;">
-<tr>
-<td align="center" style="border: none;">
-<img src="https://img.shields.io/badge/⭐%20Star%20My%20Repositories-If%20You%20Like%20Them-yellow?style=for-the-badge&logo=star&logoColor=white" />
-</td>
-<td align="center" style="border: none;">
-<img src="https://img.shields.io/badge/🤝%20Let's%20Collaborate-On%20Amazing%20Projects-blue?style=for-the-badge&logo=handshake&logoColor=white" />
-</td>
-<td align="center" style="border: none;">
-<img src="https://img.shields.io/badge/🚀%20Building%20Tomorrow-Today-red?style=for-the-badge&logo=rocket&logoColor=white" />
-</td>
-</tr>
-</table>
+*Transforming creative vision into intelligent solutions, one algorithm at a time.*
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4,5&height=150&section=footer&text=MAH%20RAHAT%20%7C%20AI%20ENGINEER&fontSize=24&fontColor=fff&animation=fadeIn)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmah-rahat&labelColor=%23697689&countColor=%232ccce4&style=flat&labelStyle=upper)
 
-### 💭 "From Pixels to Intelligence, From Code to Impact"
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=24&fontColor=fff&animation=twinkling)
 
-<em>Transforming creative vision into intelligent solutions, one algorithm at a time.</em>
+⭐ **Star my repositories if they inspire you!** | 🤝 **Let's collaborate and build the future!**
 
-![Visitor Badge](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmah-rahat&labelColor=%23697689&countColor=%232ccce4&style=flat&labelStyle=upper)
+</div>
 
+---
+
+<div align="center">
+<i>
+🎯 <b>Mission:</b> Building AI solutions that make a difference<br>
+💡 <b>Vision:</b> A world where technology serves humanity<br>
+🚀 <b>Goal:</b> Leading the next generation of AI innovation<br>
+</i>
 </div>
