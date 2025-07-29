@@ -2,9 +2,9 @@
 
 <div align="center">
   
-  ![Header Image](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=MAH%20RAHAT&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=20)
+  ![Header Image](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=MAH%20RAHAT&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Aspiring%20AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=20)
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=🤖+AI+Engineer+%26+Machine+Learning;👁️+Computer+Vision+%26+Image+Processing;🌐+Full-Stack+Developer+%26;+%26+Business+Strategist;🚀+Transforming+Ideas+into+Intelligent+Solutions)  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=🤖+Aspiring+AI+Engineer+%26+Machine+Learning;👁️+Computer+Vision+%26+Image+Processing;🌐+Former+Graphic+Designer+%26;+%26+Business+Strategist;🚀+Transforming+Ideas+into+Intelligent+Solutions)  
   ](https://git.io/typing-svg)
 
   <img src="https://komarev.com/ghpvc/?username=mah-rahat&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
